@@ -1,39 +1,15 @@
-# Hangman Game (Python)
+# CodeAlpha Internship Projects
 
-## Project Description
+## Task 1: Hangman Game
 
-This is a simple console-based Hangman game developed using Python.
-In this game, the player guesses a hidden word one letter at a time.
+A simple console-based Python game where the player guesses a word letter by letter.
 
-## Features
+## Task 2: Stock Portfolio Tracker
 
-* Random word selection
-* Maximum 6 incorrect guesses
-* Simple console-based gameplay
-* Beginner friendly Python project
+A Python program that calculates total investment value based on stock inputs.
 
 ## Technologies Used
 
 * Python
-* Random module
-* While loop
-* If-else conditions
-* Lists and strings
-
-## How to Run the Project
-
-1. Open the project in VS Code
-2. Open terminal
-3. Run the command:
-
-python hangman.py
-
-## Example Output
-
-Word: _ _ _ _ _
-Enter a letter: a
-Correct guess!
-
-## Internship Task
-
-This project was created as part of the CodeAlpha Internship Program.
+* Loops and Conditions
+* Lists and Dictionaries
